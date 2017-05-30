@@ -1,0 +1,7 @@
+## Title: FishingMarkAnnouncer
+## Interface: 70200
+## Author: Elennight
+## Notes: Announces to party or raid chat when someone receives a Mark of Aquaos (at Margoss Fishing Retreat).
+## Version: 1.0.0
+embeds.xml
+Core.lua
